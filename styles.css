@@ -1,3 +1,20 @@
 body {
-  background: blue;
+  background:rgb(66, 103, 178);
+  
+}
+h1 {
+  color:rgb(137, 143, 156);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: unset;
+  font-size: 40px;
+
+}
+p {
+  color:rgb(137, 143, 156);
+  font-family: Arial, Helvetica, sans-serif;
+}
+A {
+  color:rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
 }
